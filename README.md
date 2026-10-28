@@ -3,4 +3,4 @@ fractalython is a simple fractal generator in Python. Nothing fancy.
 
   To run, example:
   
-    `python3 mandelbrot.py`
+    $ python3 mandelbrot.py
